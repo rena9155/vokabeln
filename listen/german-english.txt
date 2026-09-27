@@ -1,0 +1,10 @@
+Hallo = hello
+Tschüss = bye / goodbye
+bitte = please / you're welcome
+Danke = thanks / thank you
+Entschuldigung = sorry / excuse me
+Ja = yes
+Nein = no
+gut = good
+schlecht = bad
+Wasser = water
